@@ -1,4 +1,5 @@
 class coures:
+    #איזו שהיא הערה
     def __init__(self):
         self.study_meterials = "Rules of conduct on campus"
 
