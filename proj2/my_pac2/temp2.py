@@ -13,7 +13,8 @@ def test_read_csv():
      next(text_file)
      my_list = list(text_file)
      print(my_list[2][0])
-
+        #הערה
+#123
 # for x in my_list [1:] :
 #     print(x[0])
 
